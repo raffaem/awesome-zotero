@@ -267,6 +267,14 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
 ![Stars](https://img.shields.io/github/stars/PKM-er/obsidian-zotlit?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/PKM-er/obsidian-zotlit?style=flat-square)
 
+- [pubpeer_zotero_plugin](https://github.com/PubPeerFoundation/pubpeer_zotero_plugin) - Plugin to show if references in Zotero have PubPeer comments.
+
+  ![Last Commit](https://img.shields.io/github/last-commit/PubPeerFoundation/pubpeer_zotero_plugin?style=flat-square)
+![License](https://img.shields.io/github/license/PubPeerFoundation/pubpeer_zotero_plugin?style=flat-square)
+![Issues](https://img.shields.io/github/issues/PubPeerFoundation/pubpeer_zotero_plugin?style=flat-square)
+![Stars](https://img.shields.io/github/stars/PubPeerFoundation/pubpeer_zotero_plugin?style=flat-square)
+![Forks](https://img.shields.io/github/forks/PubPeerFoundation/pubpeer_zotero_plugin?style=flat-square)
+
 
 ### Miscellaneous
 - [Awesome GPT](https://github.com/MuiseDestiny/zotero-gpt) - Zotero plugin to provide GPT backend into Zotero using API.
